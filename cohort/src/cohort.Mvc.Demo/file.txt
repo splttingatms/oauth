@@ -1,3 +1,0 @@
-RuntimeMethodHandle.InvokeMethod => WebApiApplication.Application_Start => Logger.Info ============================
-RuntimeMethodHandle.InvokeMethod => WebApiApplication.Application_Start => Logger.Info     Starting application    
-RuntimeMethodHandle.InvokeMethod => WebApiApplication.Application_Start => Logger.Info ============================
